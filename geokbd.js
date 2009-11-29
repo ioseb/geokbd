@@ -316,7 +316,6 @@
       } catch(e) {}
       return false;
     },
-    ,
     onLanguageChange: function(fn) {
       onLanguageChangeCallback = fn;
     },
